@@ -1,5 +1,4 @@
-https://github.com/Emma2114/Amethyst/assets/amethyst.png
-
+https://github.com/Emma2114/Amethyst/blob/main/assets/amethyst.png
 # AMETHYST
 
 An open-source Paper-Minecraft like clone.
