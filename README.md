@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/Emma2114/Amethyst/refs/heads/main/assets/amethyst.png" /> 
+
 # AMETHYST
 
 An open-source Paper-Minecraft like clone.
